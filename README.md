@@ -40,11 +40,12 @@ Save the resulting csv file where you want
 
 ![](images/csv.png)
 
-Import the csv file in your collection on [swudb.com](https://swudb.com/)
+Import the csv file into your collection on [swudb.com](https://swudb.com/)
+My collection --> bulk actions --> CSV import
 
 ![](images/swudb.png)
 
-This is a digital way to enjoy this game but I recommend to buy it physically because you cannot enjoy the foil/hyperspace versions!
+This is a digital way to enjoy this game but I recommend to buy it physically because you cannot enjoy the foil/hyperspace versions and ... it's a collectable game cards!
 
 ## Uninstall
 
