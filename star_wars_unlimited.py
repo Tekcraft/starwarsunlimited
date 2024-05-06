@@ -3,7 +3,7 @@ import csv
 from PyQt5.QtWidgets import QApplication, QFileDialog
 
 def process_cards_to_csv():
-    choice = input("Do you want to import a deck (1) or a booster (2) [1|2]: ")
+    choice = input("Do you want to import a deck (1) or a booster pack (2) [1|2]: ")
 
     if choice == '1':
         # Load the JSON data from the uploaded file
