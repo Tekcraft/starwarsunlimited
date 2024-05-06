@@ -36,6 +36,8 @@ Save the resulting csv file where you want
 
 Import the csv file in your collection on [swudb.com](https://swudb.com/)
 
+![](images/swudb.png)
+
 ## Resources
 [ChatGPT](https://chatgpt.com/)
 
