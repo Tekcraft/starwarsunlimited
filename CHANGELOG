@@ -1,0 +1,23 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+
+### Added
+- Added the option to import a deck or a booster.
+- Added dialog window for selecting JSON file and CSV file save path.
+- Added option to select import type via prompt.
+
+### Changed
+- Modified code to support graphical CSV file save option for booster option as well.
+
+### Fixed
+- Fixed an issue with JSON file handling causing an error during import.
+- Fixed an issue with handling invalid user input in selection prompt.
+
+## [1.0.0] - 2024-05-07
+
+### Added
+- Implementation of loading JSON data and writing CSV data.
+- Added ability to select import type via prompt.
