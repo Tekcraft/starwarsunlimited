@@ -17,10 +17,17 @@ pip show star_wars_unlimited
 ```
 
 ## How to
-...
+You can use the python3 script executing it with:
+```
+python3 star_wars_unlimited.py
+```
+and the first question is if you  want to import the deck .json file (taken from SWUDB.com) or a booster pack .json file from TTS:
+![alt](images/question.png) 
 
 ## Resources
 [ChatGPT](https://chatgpt.com/)
+
 [swudb.com](https://swudb.com/)
+
 [Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
 
