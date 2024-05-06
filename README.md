@@ -8,7 +8,7 @@ If you want to import the decks in [swudb.com](https://swudb.com/) or you want t
 
 You can install the whl package by using:
 ```
-pip install star_wars_unlimited-1.0.0-py3-none-any-whl
+pip install star_wars_unlimited-1.0.1-py3-none-any.whl
 ```
 
 You can check the path of the installation by using:
@@ -25,12 +25,11 @@ pip list
 ## How to
 You can use the python3 script executing it with:
 ```
-python3 star_wars_unlimited.py
+python3 swu.py
 ```
 and the first question is if you  want to import the deck .json file (taken from SWUDB.com) or a booster pack .json file from TTS:
 
 ![](images/question.png) 
-
 
 Localize your json file (of a deck on swudb.com) or TTS
 

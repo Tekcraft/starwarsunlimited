@@ -21,3 +21,6 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Implementation of loading JSON data and writing CSV data.
 - Added ability to select import type via prompt.
+
+## [1.0.1] - 2024-05-07
+The python script is renamed swu.py and eliminated old files such as "cartine.py"
