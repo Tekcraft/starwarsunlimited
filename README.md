@@ -15,6 +15,12 @@ You can check the path of the installation by using:
 ```
 pip show star_wars_unlimited
 ```
+You can check the installation using 
+```
+pip list
+```
+
+![](images/pip_list.png)
 
 ## How to
 You can use the python3 script executing it with:
