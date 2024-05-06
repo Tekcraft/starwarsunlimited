@@ -38,6 +38,8 @@ Import the csv file in your collection on [swudb.com](https://swudb.com/)
 
 ![](images/swudb.png)
 
+This is a digital way to enjoy this game but I recommend to buy it physically because you cannot enjoy the foil/hyperspace versions!
+
 ## Resources
 [ChatGPT](https://chatgpt.com/)
 
