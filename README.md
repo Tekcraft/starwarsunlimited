@@ -46,6 +46,18 @@ Import the csv file in your collection on [swudb.com](https://swudb.com/)
 
 This is a digital way to enjoy this game but I recommend to buy it physically because you cannot enjoy the foil/hyperspace versions!
 
+## Uninstall
+
+Simply you can uninstall the script using
+```
+pip uninstall star-wars-unlimited
+```
+and if you check the installation:
+```
+pip list
+```
+you will see everything has being uninstalled
+
 ## Resources
 [ChatGPT](https://chatgpt.com/)
 
