@@ -25,6 +25,17 @@ and the first question is if you  want to import the deck .json file (taken from
 
 ![](images/question.png) 
 
+
+Localize your json file (of a deck on swudb.com) or TTS
+
+![](images/json.pngimage.png)
+
+Save the resulting csv file where you want
+
+![](images/csv.png)
+
+Import the csv file in your collection on [swudb.com](https://swudb.com/)
+
 ## Resources
 [ChatGPT](https://chatgpt.com/)
 
