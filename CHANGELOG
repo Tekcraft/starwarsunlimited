@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 ### Added
-- Added the option to import a deck or a booster.
+- Added the option to import a deck or a booster pack.
 - Added dialog window for selecting JSON file and CSV file save path.
 - Added option to select import type via prompt.
 
