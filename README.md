@@ -1,5 +1,5 @@
 # Star Wars Unlimited gaming card
-If you want to import the decks in swudb.com [swudb.com](https://swudb.com/) or you want to import the booster packs from [Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) you can use this python script
+If you want to import the decks in [swudb.com](https://swudb.com/) or you want to import the booster packs from [Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) you can use this python script
 
 You can install the whl package by using:
 ```
