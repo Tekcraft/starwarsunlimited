@@ -28,7 +28,7 @@ and the first question is if you  want to import the deck .json file (taken from
 
 Localize your json file (of a deck on swudb.com) or TTS
 
-![](images/json.pngimage.png)
+![](images/json.png)
 
 Save the resulting csv file where you want
 
