@@ -15,3 +15,12 @@ You can check the path of the installation by using:
 ```
 pip show star_wars_unlimited
 ```
+
+## How to
+...
+
+## Resources
+[ChatGPT](https://chatgpt.com/)
+[swudb.com](https://swudb.com/)
+[Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
+
