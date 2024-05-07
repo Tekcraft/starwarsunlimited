@@ -16,13 +16,13 @@ All notable changes to this project will be documented in this file.
 - Fixed an issue with JSON file handling causing an error during import.
 - Fixed an issue with handling invalid user input in selection prompt.
 
-## [1.0.0] - 2024-05-06
+### [1.0.0] - 2024-05-06
 
-### Added
+#### Added
 - Implementation of loading JSON data and writing CSV data.
 - Added ability to select import type via prompt.
 
-## [1.0.1] - 2024-05-06
+### [1.0.1] - 2024-05-06
 - The python script is renamed swu.py and eliminated old files such as "cartine.py"
 
 ## [1.0.2] - 2024-05-07
