@@ -20,7 +20,7 @@ You can check the installation using
 pip list
 ```
 
-![](images/pip_list.png)
+![](images/list.png)
 
 ## How to
 You can use the python3 script executing it with:
