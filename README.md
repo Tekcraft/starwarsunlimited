@@ -50,7 +50,7 @@ This is a digital way to enjoy this game but I recommend to buy it physically be
 
 Simply you can uninstall the script using
 ```
-pip uninstall star-wars-unlimited
+pip uninstall StarWarsUnlimited
 ```
 and if you check the installation:
 ```
