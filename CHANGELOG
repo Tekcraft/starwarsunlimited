@@ -29,5 +29,4 @@ All notable changes to this project will be documented in this file.
 - Built everything in a virtual environment using the old "setup.py"
 
 ## [1.0.3] - 2024-05-10
-- Migrated everything in GUI and created the app file for MACOS 
-
+- Migrated everything in GUI and created the app file for MACOS and the exe for MS Windows
