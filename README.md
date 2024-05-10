@@ -27,7 +27,9 @@ You can use the python3 script executing it with:
 ```
 python3 swu.py
 ```
-and the first question is if you  want to import the deck .json file (taken from SWUDB.com) or a booster pack .json file from TTS:
+ or the MACOS app with a double click
+
+The first question is if you  want to import the deck .json file (taken from SWUDB.com) or a booster pack .json file from TTS:
 
 ![](images/question.png) 
 
@@ -57,6 +59,8 @@ and if you check the installation:
 pip list
 ```
 you will see everything has being uninstalled
+
+And if you choose the MACOS application, you have only to discard it
 
 ## Resources
 [ChatGPT](https://chatgpt.com/)
