@@ -27,3 +27,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.2] - 2024-05-07
 - Built everything in a virtual environment using the old "setup.py"
+
+## [1.0.3] - 2024-05-10
+- Migrated everything in GUI and created the app file for MACOS 
+
