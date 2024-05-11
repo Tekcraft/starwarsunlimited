@@ -63,6 +63,10 @@ you will see everything has being uninstalled
 
 If you choose the MACOS application / Windows exe file, you have only to discard it
 
+## Tips&Tricks
+
+Delete, if there is something, all the "Unknown" lines
+
 ## Resources
 [ChatGPT](https://chatgpt.com/)
 
