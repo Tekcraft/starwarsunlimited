@@ -4,7 +4,7 @@
 - PyQt5
 
 ## Scope
-In order to import the json files from [swudb.com](https://swudb.com/) and from [Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) it has been created a python script to create a cvs file from a deck (exported from swudb.com) or booster packs (exported from TTS).  Then you can import the csv file into swudb.com importer directly in your collection, using the accepted columns
+Manage the json files exported from [swudb.com](https://swudb.com/) and from [Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) and create the csv file with the accepted columns. It has been created a python script to create a cvs file from a deck (exported from swudb.com in json format) or booster packs (exported from TTS in json format).  Then you can import the csv file into swudb.com importer directly in your collection.
 
 ## Installation
 You can install the whl package by using:
