@@ -7,11 +7,9 @@
 In order to import the json files from [swudb.com](https://swudb.com/) and from [Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) it has been created a python script to create a cvs file from a deck (exported from swudb.com) or booster packs (exported from TTS).  Then you can import the csv file into swudb.com importer directly in your collection, using the accepted columns
 
 ## Installation
-If you want to import the decks in [swudb.com](https://swudb.com/) or you want to import the booster packs from [Table Top Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) you can use this python script
-
 You can install the whl package by using:
 ```
-pip install star_wars_unlimited-1.0.1-py3-none-any.whl
+pip install star_wars_unlimited-1.0.3-py3-none-any.whl
 ```
 
 You can check the path of the installation by using:
