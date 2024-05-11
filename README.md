@@ -66,6 +66,7 @@ If you choose the MACOS application / Windows exe file, you have only to discard
 ## Tips&Tricks
 
 Delete, if there is something, all the "Unknown" lines in the created csv 
+Remember to add the hero and the base if you import deck json because simply they are not present in the json file!
 
 ## Resources
 [ChatGPT](https://chatgpt.com/)
