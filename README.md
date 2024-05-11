@@ -26,7 +26,7 @@ pip list
 ## How to
 You can use the python3 script executing it with:
 ```
-python3 swu.py
+python3 swu_1.0.3.py
 ```
  or the MACOS app / WINDOWS exe with a double click
 
