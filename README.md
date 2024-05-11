@@ -1,5 +1,5 @@
 # Star Wars Unlimited gaming card
-## Requirements
+## Requirements (if you use whl file)
 - Python 3.0.0 or above
 - PyQt5
 
