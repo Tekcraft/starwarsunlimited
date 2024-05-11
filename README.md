@@ -65,7 +65,7 @@ If you choose the MACOS application / Windows exe file, you have only to discard
 
 ## Tips&Tricks
 
-Delete, if there is something, all the "Unknown" lines
+Delete, if there is something, all the "Unknown" lines in the created csv 
 
 ## Resources
 [ChatGPT](https://chatgpt.com/)
